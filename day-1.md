@@ -1,6 +1,12 @@
 # Daily Learning
 ## Morning Planning
+
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
 ## Review
+
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
+
 
 - Item 1
 - Item 2
